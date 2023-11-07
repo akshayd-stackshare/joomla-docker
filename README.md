@@ -4,7 +4,7 @@
 ### Written by Amir Barkal
 
 ## Environment details:
-- MySQL root password: 12345678
+- MySQL root password: 123456a78
 - Joomla database name: joomla
 - MySQL hostname: mysql
 
