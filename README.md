@@ -1,4 +1,4 @@
-aasda  ss![Logo](https://blog.rosehosting.com/blog/wp-content/uploads/2014/10/joomla.png)
+![Logo](https://blog.rosehosting.com/blog/wp-content/uploads/2014/10/joomla.png)
 
 # Joomla + MySQL + phpMyAdmin on Docker. 
 ### Written by Amir Barkal
